@@ -1,8 +1,3 @@
-Dark-Neon
-=========
-
-Sublime Text 2 Theme and Coda 2 Theme based on the InfiniteRed’s IR_Black
-
 # Sublime Text 2  and Coda 2 - Dark Neon Theme
 
 Dark Neon theme for Sublime Text 2 and Coda 2 are based on [InfiniteRed’s IR_Black](http://blog.toddwerth.com/entries/show/2)  [IR_Black TextMate theme].
