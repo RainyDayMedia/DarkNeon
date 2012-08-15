@@ -5,7 +5,7 @@ Dark Neon theme for Sublime Text 2 and Coda 2 are based on [InfiniteRed’s IR_B
 
 
 ![Dark Neon Theme](http://f.cl.ly/items/3d2L2N0W2g0l0b39160n/Image%202012.08.15%2010:14:17%20AM.png "Sublime Text 2 Theme")
-![Dark Neon Theme](http://f.cl.ly/items/3e2T2Y360Y0x1S1j2z25/Image%202012.08.15%2010:17:39%20AM.png "Coda 2 Theme")
+![Dark Neon Theme](http://f.cl.ly/items/0g2X3k1i3K1E18090V2a/Image%202012.08.15%2011:30:46%20AM.png "Coda 2 Theme")
 
 
 ## License
