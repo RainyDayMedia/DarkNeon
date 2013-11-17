@@ -1,6 +1,7 @@
 #Dark Neon Theme for Sublime Text 2, Textmate 2, Chocolat and Coda 2
 
-You can also find the theme here: 
+You can also find the theme here:
+
 [TMTheme-Editor.herokuapp.com](http://tmtheme-editor.herokuapp.com/)
 
 [DevThemes.com](http://devthemez.com/themes/dark-neon)
