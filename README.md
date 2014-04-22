@@ -29,21 +29,21 @@ The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/i
 
 
 ## Screenshots:
-**Mou**
-![Dark Neon Theme](http://f.cl.ly/items/2d061x0R2t0p2P3E0n1m/Screen%20Shot%202014-04-19%20at%203.19.50%20PM.png)
-**Sublime Text 2/3:**
-![Dark Neon Theme](http://f.cl.ly/items/3d2L2N0W2g0l0b39160n/Image%202012.08.15%2010:14:17%20AM.png "Sublime Text 2 Theme")
+> a few screen shots:
 
-**Textmate 2:**
-![Dark Neon Theme](http://ed.makitra.in/Screen%20Shot%202013-11-17%20at%205.08.04%20PM-0ktw3zgG8i.png)
+#### Mou
+![Dark Neon for Mou](http://f.cl.ly/items/2d061x0R2t0p2P3E0n1m/Screen%20Shot%202014-04-19%20at%203.19.50%20PM.png)
+#### Sublime Text 2/3:
+![Dark Neon for Sublime Text](http://f.cl.ly/items/3d2L2N0W2g0l0b39160n/Image%202012.08.15%2010:14:17%20AM.png "Sublime Text 2 Theme")
 
-**Coda 2:**
-![Dark Neon Theme](http://f.cl.ly/items/0g2X3k1i3K1E18090V2a/Image%202012.08.15%2011:30:46%20AM.png "Coda 2 Theme")
+#### Textmate 2
+![Dark Neon for Textmate 2](http://ed.makitra.in/Screen%20Shot%202013-11-17%20at%205.08.04%20PM-0ktw3zgG8i.png)
 
-**Chocolat App:**
-![Dark Neon Theme](http://ed.makitra.in/Screen%20Shot%202013-11-17%20at%205.13.26%20PM-NBPZajqgIx.png)
+#### Coda 2:
+![Dark Neon Coda 2](http://f.cl.ly/items/0g2X3k1i3K1E18090V2a/Image%202012.08.15%2011:30:46%20AM.png "Coda 2 Theme")
 
 ---
 #### License
 
-Dark Neon Theme is licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/). You are free to use and share the theme. **It's free bitch!**
+Dark Neon Theme is licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/). You are free to use and share the theme.   
+**It's free bitch!**
