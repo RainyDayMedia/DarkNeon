@@ -4,7 +4,7 @@
 `This theme is targeted toward front-end developers... sort of`
 
 The Dark Neon Theme is your typical [Textmate](https://github.com/textmate/textmate) theme that works with [Sublime Text 2 and 3](http://www.sublimetext.com/) and [Choclat](https://chocolatapp.com/). There is also a version for [Coda 2](https://panic.com/coda/) *(for those who like IDEs)* and [Mou](http://mouapp.com/) *(for those who like to write Markdown)*  
-The theme is based on [Todd Werth's IR_Black](http://toddwerth.com/2007/03/29/ir_black-the-last-textmate-theme-youll-ever-need/). 
+The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/ir_black-the-last-textmate-theme-youll-ever-need/). 
 
 ## Also seen on:
 
@@ -32,15 +32,18 @@ The theme is based on [Todd Werth's IR_Black](http://toddwerth.com/2007/03/29/ir
 > a few screen shots:
 
 #### Mou
-![Dark Neon for Mou](http://f.cl.ly/items/2d061x0R2t0p2P3E0n1m/Screen%20Shot%202014-04-19%20at%203.19.50%20PM.png)
+![Dark Neon for Mou](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Mou/mou-screenshot.png)
 #### Sublime Text 2/3:
-![Dark Neon for Sublime Text](http://f.cl.ly/items/3d2L2N0W2g0l0b39160n/Image%202012.08.15%2010:14:17%20AM.png "Sublime Text 2 Theme")
+![Dark Neon for Sublime Text](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Textmate-SublimeText/sublime-screenshot.png)
 
 #### Textmate 2
-![Dark Neon for Textmate 2](http://ed.makitra.in/Screen%20Shot%202013-11-17%20at%205.08.04%20PM-0ktw3zgG8i.png)
+![Dark Neon for Textmate 2](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Textmate-SublimeText/textmate-screenshot.png)
 
 #### Coda 2:
-![Dark Neon Coda 2](http://f.cl.ly/items/0g2X3k1i3K1E18090V2a/Image%202012.08.15%2011:30:46%20AM.png "Coda 2 Theme")
+![Dark Neon for Coda 2](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Coda/coda-screenshot.png)
+
+#### iTerm 2:
+![Dark Neon for iTerm2](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/iTerm2/iterm-screenshot.png)
 
 ---
 #### License
