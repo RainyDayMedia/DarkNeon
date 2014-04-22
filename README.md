@@ -34,10 +34,10 @@ The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/i
 #### Mou
 ![Dark Neon for Mou](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Mou/mou-screenshot.png)
 #### Sublime Text 2/3:
-![Dark Neon for Sublime Text](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Textmate-SublimeText/sublime-screenshot.png)
+![Dark Neon for Sublime Text](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Textmate/sublime-screenshot.png)
 
 #### Textmate 2
-![Dark Neon for Textmate 2](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Textmate-SublimeText/textmate-screenshot.png)
+![Dark Neon for Textmate 2](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Textmate/textmate-screenshot.png)
 
 #### Coda 2:
 ![Dark Neon for Coda 2](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Coda/coda-screenshot.png)
