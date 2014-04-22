@@ -4,7 +4,7 @@
 `This theme is targeted toward front-end developers... sort of`
 
 The Dark Neon Theme is your typical [Textmate](https://github.com/textmate/textmate) theme that works with [Sublime Text 2 and 3](http://www.sublimetext.com/) and [Choclat](https://chocolatapp.com/). There is also a version for [Coda 2](https://panic.com/coda/) *(for those who like IDEs)* and [Mou](http://mouapp.com/) *(for those who like to write Markdown)*  
-The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/ir_black-the-last-textmate-theme-youll-ever-need/). 
+The theme is based on [Todd Werth's IR_Black](http://toddwerth.com/2007/03/29/ir_black-the-last-textmate-theme-youll-ever-need/). 
 
 ## Also seen on:
 
