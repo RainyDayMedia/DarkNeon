@@ -14,7 +14,15 @@ The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/i
 
 * [DevThemes.com](http://devthemez.com/themes/dark-neon) by: [Pascal Kremp](https://github.com/PascalKremp) tweeting as @[pascalkremp](https://twitter.com/pascalkremp)
 
-## todo:
+## Install in Sublime Text 2/3:
+
+* With Package Control: Launch Package Control (`⌘+Shift+p` or `ctrl+Shift+p`) search `DarkNeon` 
+* Manually Sublime Text 2: Copy `Dark Neon.tmTheme` into the Packages folder
+* Manually Sublime Text 3: Copy `Dark Neon.tmTheme` into the User folder
+
+===
+
+#### todo:
 
 * ~~iTerm2~~
 * Chrome Dev Tools *in progress*
