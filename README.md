@@ -32,7 +32,12 @@ The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/i
 > a few screen shots:
 
 #### Mou
-![Dark Neon for Mou](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Mou/mou-screenshot.png)
+**Dark Neon**
+![Dark Neon for Mou](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Mou/darkneon.png)
+**Dark Neon Eighties**
+![Dark Neon for Mou](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Mou/darkneon_eighties.png)
+**Dark Neon Light**
+![Dark Neon for Mou](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Mou/darkneon_light.png)
 #### Sublime Text 2/3:
 ![Dark Neon for Sublime Text](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Textmate/sublime-screenshot.png)
 
