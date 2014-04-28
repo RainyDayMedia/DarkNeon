@@ -24,16 +24,16 @@ The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/i
 
 #### todo:
 
-* ~~iTerm2~~
-* Chrome Dev Tools *in progress*
-* Espresso *in progress*
-* ~~Mou~~
+- [X] iTerm2
+- [ ] Chrome Dev Tools *in progress*
+- [ ] Espresso *in progress*
+- [X] Mou
 * A few considerations:
-	* BBEdit 
-	* TextWrangler
-	* xCode
-	* Atom
-	* Brackets/Edge
+- [ ] BBEdit 
+- [ ] TextWrangler
+- [ ] xCode
+- [ ] Atom
+- [ ] Brackets/Edge
 
 
 ## Screenshots:
