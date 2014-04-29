@@ -33,6 +33,8 @@ The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/i
 - [ ] xCode *maybe*
 - [ ] Atom *maybe*
 - [ ] Brackets/Edge *maybe*
+- [ ] Dark Neon Light for SublimeText/Coda/iTerm2
+- [ ] Dark Neon Eighties for SublimeText/Coda/iTerm2
 
 
 ## Screenshots:
