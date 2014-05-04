@@ -28,8 +28,7 @@ The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/i
 - [ ] Chrome Dev Tools *in progress*
 - [ ] Espresso *in progress*
 - [x] Mou
-- [ ] BBEdit *maybe* 
-- [ ] TextWrangler *maybe*
+- [ ] BBEdit/TextWrangler *maybe* 
 - [ ] xCode *maybe*
 - [ ] Atom *maybe*
 - [ ] Brackets/Edge *maybe*
