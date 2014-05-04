@@ -41,12 +41,8 @@ The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/i
 > a few screen shots:
 
 #### Mou
-**Dark Neon**
-![Dark Neon for Mou](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Mou/darkneon.png)
-**Dark Neon Eighties**
-![Dark Neon for Mou](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Mou/darkneon_eighties.png)
-**Dark Neon Light**
-![Dark Neon for Mou](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Mou/darkneon_light.png)
+![Dark Neon for Mou](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Mou/mou-screenshots.png)
+
 #### Sublime Text 2/3:
 ![Dark Neon for Sublime Text](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/Textmate/sublime-screenshot.png)
 
@@ -58,6 +54,8 @@ The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/i
 
 #### iTerm 2:
 ![Dark Neon for iTerm2](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/iTerm2/iterm-screenshot.png)
+
+I'm using [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) with a custom theme I made called [RDM2](https://github.com/RainyDayMedia/oh-my-zsh-rdm-theme), that is *Git Aware* and displays your current version of ruby with RVM. Feel free to download it user it as is or modify. 
 
 ---
 #### License
