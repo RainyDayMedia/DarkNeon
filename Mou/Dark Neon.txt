@@ -10,7 +10,7 @@ background: 0090D0
 H1
 foreground: 2A8AFF
 font-style: bold
-font-size: 22px
+font-size: 24px
 
 H2
 foreground: 2A8AFF
