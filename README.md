@@ -3,7 +3,7 @@
 
 `This theme is targeted toward front-end developers... sort of`
 
-The Dark Neon Theme is your typical [Textmate](https://github.com/textmate/textmate) theme that works with [Sublime Text 2 and 3](http://www.sublimetext.com/) and [Choclat](https://chocolatapp.com/). There is also a version for [Coda 2](https://panic.com/coda/) *(for those who like IDEs)* and [Mou](http://mouapp.com/) *(for those who like to write Markdown)*  
+The Dark Neon Theme is your typical [Textmate](https://github.com/textmate/textmate) theme that works with [Sublime Text 2 and 3](http://www.sublimetext.com/) and [Choclat](https://chocolatapp.com/). There is also a version for [Coda 2](https://panic.com/coda/) *(for those who like IDEs)* and [Mou](http://mouapp.com/) *(for those who like to write Markdown)*
 The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/ir_black-the-last-textmate-theme-youll-ever-need/).
 
 ## Also seen on:
@@ -26,15 +26,10 @@ The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/i
 
 - [x] iTerm2
 - [x] Mou
-- [ ] Atom *in progress*
-- [ ] Chrome Dev Tools *in progress*
-- [ ] Espresso *in progress*
 - [ ] Dark Neon Light for SublimeText/Coda/iTerm2
 - [ ] Dark Neon Eighties for SublimeText/Coda/iTerm2
-- [ ] BBEdit/TextWrangler *maybe*
-- [ ] xCode *maybe*
-- [ ] Brackets/Edge *maybe*
 
+*if you want a theme for your editor, just create an issue*
 
 
 ## Screenshots:
