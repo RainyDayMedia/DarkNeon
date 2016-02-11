@@ -50,7 +50,7 @@ The theme is based on [Todd Werth's IR_Black:](http://toddwerth.com/2007/03/29/i
 #### iTerm 2:
 ![Dark Neon for iTerm2](https://raw.githubusercontent.com/RainyDayMedia/Dark-Neon/master/iTerm2/iterm-screenshot.png)
 
-I'm using [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) with a custom theme I made called [RDM2](https://github.com/RainyDayMedia/oh-my-zsh-rdm-theme), that is *Git Aware* and displays your current version of ruby with RVM. Feel free to download it user it as is or modify.
+I'm using [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) with a custom theme I made called [Poncho](https://github.com/RainyDayMedia/oh-my-zsh-rdm-theme), that is *Git Aware* and displays your current version of ruby with RVM. Feel free to download it user it as is or modify
 
 ---
 #### License
